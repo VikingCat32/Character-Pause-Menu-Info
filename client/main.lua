@@ -14,7 +14,7 @@ AddEventHandler("QBCore:Client:OnPlayerLoaded",function()
         cashAmount = PlayerData.money['cash']
         bankAmount = PlayerData.money['bank']
     end)
-    QBCore.Functions.TriggerCallback('chicle_pause_menu:getPlayerName', function(cb) PlayeName = cb end)
+    QBCore.Functions.TriggerCallback('chicle_pause_menu:getPlayerName', function(cb) PlayerName = cb end)
 
 end)
 
