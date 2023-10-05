@@ -1,4 +1,4 @@
-# Character-Pause-Menu-Info
+# Character-Pause-Menu-Info [NO LONGER SUPPORTED]
 This script allows you to edit the pause menu in FiveM. You'll be able to add a custom title and subtitle. The script will also connect to QBCore's character system to display your characters name, cash, and bank balance information. ```Version: 1.0.0```
 
 This script is dependent on the [QBCore Framework](https://github.com/qbcore-framework/).
@@ -11,7 +11,7 @@ This script is dependent on the [QBCore Framework](https://github.com/qbcore-fra
 <p>
 
 # Future Updates
-We hope to add the abiltiy to see the amount of dirty cash and your crypto balance in the pause menu.
+[NO LONGER SUPPORTED]
 
 # License
 
